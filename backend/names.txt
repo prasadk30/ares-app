@@ -1,0 +1,12 @@
+IronMan
+SpiderMan
+Thor
+Hulk
+Captain
+Loki
+Groot
+Gamora
+Rocket
+StarLord
+Thanos
+Dr.Doom
